@@ -4,4 +4,8 @@ This is a third line
 This is the 4th line
 This is the 5th line
 This is the 6th line
+<<<<<<< HEAD
 meeting by 5pm
+=======
+Meeting by 4pm
+>>>>>>> 2b91c0a7e820df685f3bc7356708791ad3180b14
